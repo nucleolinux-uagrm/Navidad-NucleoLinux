@@ -18,15 +18,13 @@ opciones
 
 3.- salir
 
-
-
-
-
+##
 
 # Audio utilizado con Licencia Creative Commons
 
 https://commons.wikimedia.org/wiki/File:Jingle_Bells_(90bpm)_(Kevin_MacLeod)_(ISRC_USUAN1100187).oga
 
+##
 
 Creditos a los miembros de la comunidad Nucleo Linux por agregarles el plus al script de navidad.sh:
 

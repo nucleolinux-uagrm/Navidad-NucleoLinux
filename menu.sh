@@ -11,7 +11,7 @@ detener(){
 pkill terminator
 pkill navidad.sh
 pkill audio-loop.sh
-
+pkill paplay
 }
 
 salir(){

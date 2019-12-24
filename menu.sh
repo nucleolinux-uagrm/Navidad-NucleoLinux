@@ -24,7 +24,7 @@ echo -e '
 	MENU
 
 1.- Navidad
-2.- Detener la Navidad
+2.- Detener
 3.- Salir
 
 '

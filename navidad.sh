@@ -35,8 +35,8 @@ for ((i=1; i<=2; i++))
 new_year=$(date +'%Y')
 let new_year++
 tput setaf 1; tput bold
-tput cup $lin $((c - 6)); echo FELICES FIESTAS
-tput cup $((lin + 1)) $((c - 9)); echo Y mucho CODIGO en $new_year
+tput cup $lin $((c - 6)); echo FELIZ NAVIDAD NUCLEO LINUX BOLIVIA
+tput cup $((lin + 1)) $((c - 9)); echo Y mucho CODIGO el $new_year
 let c++
 k=1
 

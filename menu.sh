@@ -1,6 +1,7 @@
 
 #!/bin/bash
 home=$(pwd)
+chmod +x *.sh
 navidad(){
 
 terminator -e "$home/navidad.sh"  > /dev/null 2>&1 &

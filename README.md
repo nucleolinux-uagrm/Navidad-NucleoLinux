@@ -6,6 +6,11 @@ https://www.sololinux.es/script-bash-arbol-de-navidad-en-la-consola/
 
 # Instrucciones
 
+Instalar toilet
+
+sudo apt install toilet -y
+
+
 ejecutar el archivo menu.sh
 
 $ bash menu.sh

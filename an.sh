@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Config
-name='¡Nucleo Linux Bolivia les desea felices fiesta!'
+name='¡Nucleo Linux Bolivia les desea felices fiestas!'
 correction=0
 
 trap "tput reset; tput cnorm; exit" 2

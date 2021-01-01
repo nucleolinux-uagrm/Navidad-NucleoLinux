@@ -57,3 +57,7 @@ case $op in
 esac
 }
 
+whie true
+do
+main
+done

@@ -15,7 +15,7 @@ middle_column=$((middle_column-1))
 color=0
 
 new_year=$(date +'%Y')
-let new_year++
+let new_year
 
 while true; do
     randomValue=$((RANDOM % 10 + 1))

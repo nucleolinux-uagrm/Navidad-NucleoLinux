@@ -36,7 +36,7 @@ echo -e '
 1.- Navidad
 2.- Detener
 3.- Feliz Año Nuevo
-3.- Salir
+4.- Salir
 
 '
 echo -n "elegir opcion: "

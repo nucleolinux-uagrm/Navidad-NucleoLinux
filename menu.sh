@@ -57,7 +57,7 @@ case $op in
 esac
 }
 
-whie true
+while true
 do
 main
 done

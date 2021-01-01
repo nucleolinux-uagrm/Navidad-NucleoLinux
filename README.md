@@ -21,7 +21,9 @@ opciones
 
 2.- detener
 
-3.- salir
+3.- Feliz Año Nuevo
+
+4.- salir
 
 ##
 
